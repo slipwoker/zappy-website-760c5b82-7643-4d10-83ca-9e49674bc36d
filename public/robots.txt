@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dazl-style-760c5b82.zappy5.app/sitemap.xml
