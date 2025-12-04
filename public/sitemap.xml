@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zappy-site-760c5b82-7643-4d10-83ca.onrender.com</loc>
-    <lastmod>2025-12-02</lastmod>
+    <loc>https://example.com</loc>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://zappy-site-760c5b82-7643-4d10-83ca.onrender.com/features</loc>
-    <lastmod>2025-12-02</lastmod>
+    <loc>https://example.com/features</loc>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-760c5b82-7643-4d10-83ca.onrender.com/about</loc>
-    <lastmod>2025-12-02</lastmod>
+    <loc>https://example.com/about</loc>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-760c5b82-7643-4d10-83ca.onrender.com/waitlist</loc>
-    <lastmod>2025-12-02</lastmod>
+    <loc>https://example.com/waitlist</loc>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-760c5b82-7643-4d10-83ca.onrender.com/privacy</loc>
-    <lastmod>2025-12-02</lastmod>
+    <loc>https://example.com/privacy-policy</loc>
+    <lastmod>2025-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/privacy</loc>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zappy-site-760c5b82-7643-4d10-83ca.onrender.com/terms</loc>
-    <lastmod>2025-12-02</lastmod>
+    <loc>https://example.com/terms</loc>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zappy-site-760c5b82-7643-4d10-83ca.onrender.com/accessibility</loc>
-    <lastmod>2025-12-02</lastmod>
+    <loc>https://example.com/accessibility</loc>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
